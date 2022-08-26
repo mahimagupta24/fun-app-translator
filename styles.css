@@ -1,0 +1,9 @@
+#output{
+    box-sizing: border-box;
+    border:1px solid black ;
+    display: block;
+    width:50vh;
+    min-height: 10vh;
+    margin-top: 1rem;
+
+}
