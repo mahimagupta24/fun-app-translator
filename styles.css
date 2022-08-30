@@ -17,7 +17,7 @@ nav{
 }
 main{
     margin:auto;
-    padding:2rem;
+    padding:2.5rem;
     max-width: var(--width-break);
 }
 textarea{
@@ -46,14 +46,14 @@ button{
     min-height: 10vh;
     max-width: var(--width-break);
     margin-top: 1px;
+    padding-bottom:4rem ;
 }
 footer{
     position: fixed;
     text-align: center;
     margin-top:2rem;
     background-color:#fef9c3;
-    padding:50px;
-    margin:auto;
+    padding: 2rem;
     width:1500px;
 }
 footer p{
