@@ -30,8 +30,8 @@ textarea{
 button{
      padding:1rem 2rem;
      margin:1rem 0rem;
-     color:white;
-     background-color:#b37cef; ;
+     color:black;
+     background-color: #fef9c3;
      font-size:medium;
      border: 1px;
 }
