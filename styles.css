@@ -43,7 +43,7 @@ button{
     display: block;
     width:60vh;
     min-height: 10vh;
-    margin-top: 1px;
+    margin-top: 2rem;
     align-items: center;
 }
 footer{
@@ -51,7 +51,7 @@ footer{
     text-align: center;
     margin-top:2rem;
     background-color:#fef9c3;
-    padding: 2rem;
+    padding: 1rem;
     font-size: larger;
     width: 100%;
     margin:auto;
@@ -65,4 +65,3 @@ footer p{
 
 }
     
-}
