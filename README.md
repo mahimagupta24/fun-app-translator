@@ -1,7 +1,7 @@
 # smart-app-translator
 This app transaltes the words of English lanuage in the Shakespearean language.
 
-It uses API to perform this translation.
+It uses fun translation API to perform this translation.
 
 Tech stack used:
 
