@@ -15,7 +15,7 @@ function clickHandler(){
     //calling server for processing
     fetch(getTranslationURL(inputText))
     .then((response)=>response.json())
-    .then((json)=>(outputDiv.innerText=json.contents.translated))
+    .then((json)=>{outputDiv.innerText=json.contents.translated})
     .catch(errorHandler)
 }
 
